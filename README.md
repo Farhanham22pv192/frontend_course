@@ -1,4 +1,4 @@
-@@ -1 +1,3 @@
+@@ -1 +1,+3 @@
 # frontend_course
 # Ваш readme
 
